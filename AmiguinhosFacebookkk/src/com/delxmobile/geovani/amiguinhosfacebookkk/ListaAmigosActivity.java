@@ -34,5 +34,9 @@ public class ListaAmigosActivity extends Activity {
 	}
 	
 	
-	
+	@Override
+		public void onBackPressed() {
+			super.onBackPressed();
+			(ListaAmigosActivity.this).finish();
+		}
 }
