@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Amigos do Facebookkk</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Olá Galera!</string>
+    <string name="app_id">733946546663323</string>
+    <string name="title_activity_lista_amigos">Meus Amiguinhos</string>
+    <string name="listar_amigos">Listar Amigos</string>
+
+</resources>
